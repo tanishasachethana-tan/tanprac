@@ -3,3 +3,4 @@ I'm from Kadawatha
 I'm going to UCSC
 I'm studying CS
 It's one of the most intersting major
+computer science basically includes maths with computing
